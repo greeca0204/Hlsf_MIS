@@ -1,0 +1,43 @@
+.my_td
+{
+    margin-top: 10px ;
+}
+
+.del , .edit , .up , .down , .add
+{
+    font-size: 10px ;
+}
+
+.myTable
+{
+}
+
+.form > img {
+    position: absolute;
+    right: 10px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.operate-area, .sidebar {
+    height: 742px;
+    margin-bottom: 10px ;
+}
+
+.tr_chairman
+{
+	height: 40px ;
+}
+
+.tr_chairman:hover
+{
+   background-color: #eee ;
+}
+
+.tr_detail
+{
+	background-color: #ddf ;
+}
+
+
+

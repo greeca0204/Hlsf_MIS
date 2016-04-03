@@ -1,0 +1,64 @@
+.my_td
+{
+    margin-top: 10px ;
+}
+
+.del , .edit , .up , .down , .add
+{
+    font-size: 6px ;
+}
+
+.myTable
+{
+    height: 440px ;
+    overflow-y: scroll;
+}
+
+.tr_chairman
+{
+    height: 40px ;
+}
+
+.tr_chairman:hover
+{
+   background-color: #eee ;
+}
+
+.tr_detail
+{
+    background-color: #ddf ;
+}
+
+.manager-avatar
+{
+	width: 160px	 ;
+	height: 160px    ;
+	display: block;
+	float:  left ;
+	margin-left: 20px ;
+	margin-top: 15px ;
+}
+
+.img-project
+{
+	width: 140px	 ;
+	height: 160px    ;
+}
+
+.fileinput-button {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.fileinput-button input {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    opacity: 0;
+    -ms-filter: 'alpha(opacity=0)';
+    font-size: 200px;
+    direction: ltr;
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?> <div class="alert alert-info">当前位置<b class="tip"></b>投资项目<b class="tip"></b>添加项目</div>

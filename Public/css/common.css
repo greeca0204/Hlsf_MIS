@@ -1,0 +1,161 @@
+body
+{
+	background-color: #7b8aa1 ;
+	margin-top: 3px ;
+	margin-left: 5% ;
+	width: 90% ;
+	font-family: "Microsoft YaHei";
+	font-size: 16px;
+}
+
+#heading
+{
+	background-color: #586683 ;
+	height: 100px ;
+}
+
+.heading-div1
+{
+	display: flex ;
+	flex-flow: row wrap;
+	height: 80px ;
+    margin-top: 10px ;
+    margin-left: 15px ;
+}
+#company-name
+{
+   /*垂直居中*/
+   vertical-align: middle;
+   margin: auto 0 ;
+   padding: 5px ;
+   color: white ;
+}
+
+#logo
+{	
+	display: block;
+	float: left ;
+	width:80px;	
+	height: 80px ;
+	margin-left:5px;
+	background: url(/Public/img/logo.png);
+	background-repeat:  no-repeat;
+	background-size: 80px 80px ;
+}
+
+.heading-div2
+{
+	display: block;
+	float: right ;
+	margin-top: 8px ;
+	display: flex ;
+	flex-flow: column wrap;
+}
+
+.navigator
+{
+	font-size:18px ;
+	border-bottom:#B1C1DA 1px solid;
+}
+
+.navv
+{
+	color: #fff;
+}
+
+.navv:hover
+{
+	color: #000;
+}
+
+.sub-navigator-welcome, .sub-navigator-exit
+{
+	display: block;
+	float: right ;
+	margin-top: 13px ;
+	color: #f99 ;
+}
+
+.sub-navigator-exit:hover
+{
+	color: #00ff00 ;
+	cursor:pointer;
+	cursor:hand;
+}
+
+.sidebar
+{
+	display: block;
+	float: left;
+	border:#B1C1DA 1px solid;
+	height: 520px ;
+	background-color: #e0e3f2 ;
+}
+
+.sidebar-panel
+{
+	margin-top: 5px ;
+}
+
+.list-group-item
+{
+   	margin-top: 10px ;
+   	text-align: center;
+}
+
+.list-group-item:hover
+{
+	cursor:pointer;
+	cursor:hand; 
+	background-color: #999 ;
+	color: white ;  
+}
+
+.operate-area
+{
+	display: block;
+	float: left;
+	border:#B1C1DA 1px solid;
+	height: 520px ;
+	background-color: #fff ;
+	overflow-y: scroll;
+}
+
+
+.alert-info {
+    color: #000;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+.alert {
+    padding: 8px 35px 8px 14px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+    border: 1px solid #eee;
+}
+
+.tip {
+    height: 0;
+    margin: 0 8px;
+    border: 4px solid transparent;
+    border-left-color: #000;
+    display: inline-block;
+}
+
+.one-line
+{
+	margin-top: 10px ; 
+}
+
+.form-group {
+    overflow: hidden;
+}
+.form {
+    position: relative;
+}
+
+#goto-input {
+    display: inline;
+    width: 65px;
+}

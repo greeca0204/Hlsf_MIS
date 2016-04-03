@@ -1,0 +1,12 @@
+[ 2015-12-19T09:09:05+08:00 ] 120.26.55.211 /index.php?m=download/admin&s=order_update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 无法加载模块:Order_update
+
+[ 2015-12-19T20:31:08+08:00 ] 23.251.38.143 http://www.sogou.com/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 无法加载模块:Index
+

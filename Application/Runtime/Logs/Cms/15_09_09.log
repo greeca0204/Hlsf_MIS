@@ -1,0 +1,2039 @@
+[ 2015-09-09T21:01:10+08:00 ] 223.220.41.203 /Cms/Projects/emphasisProject
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_project_zdxm` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hlsf_project_zdxm` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006053s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006120s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000322s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002859s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001906s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000594s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002222s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\ProjectsController.class.php on line 77 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000109s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006578s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\dc84b28840ca47a97f0e8523fcd77aae.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003899s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002852s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006469s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008983s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001135s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.008056s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2015-09-09T21:01:14+08:00 ] 223.220.41.203 /Cms/Company/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_company` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hlsf_company` WHERE ( id = 1 )  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005943s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006065s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000239s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003033s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001915s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002227s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\CompanyController.class.php on line 22 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005864s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002303s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002889s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004918s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007642s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001158s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006484s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000491s ]
+
+[ 2015-09-09T21:01:18+08:00 ] 223.220.41.203 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T21:01:18+08:00 ] 223.220.41.203 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002515s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001693s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001988s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006280s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004057s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006389s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008646s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001105s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007917s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2015-09-09T22:00:23+08:00 ] 120.24.181.240 www.google.co.uk:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000662s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\LoginController.class.php on line 8 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005615s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000545s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+
+[ 2015-09-09T22:00:23+08:00 ] 120.24.181.240 www.google.co.uk:443
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000544s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\LoginController.class.php on line 8 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000486s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000542s ]
+
+[ 2015-09-09T22:11:16+08:00 ] 120.236.167.145 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000648s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\LoginController.class.php on line 8 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005229s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005290s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000604s ]
+
+[ 2015-09-09T22:11:25+08:00 ] 120.236.167.145 /Cms/Login/validate
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\LoginController.class.php 第 19 行.
+
+[ 2015-09-09T22:11:25+08:00 ] 120.236.167.145 /Cms/Company/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_company` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hlsf_company` WHERE ( id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005413s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002574s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001767s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000539s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002075s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\CompanyController.class.php on line 22 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002216s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004638s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006947s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001053s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006128s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-09-09T22:11:26+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:26+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005558s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002478s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001586s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000550s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001891s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006168s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003976s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006194s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008487s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001038s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007652s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-09-09T22:11:29+08:00 ] 120.236.167.145 /Cms/Company/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_company` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hlsf_company` WHERE ( id = 1 )  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005824s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002658s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001784s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000497s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002022s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\CompanyController.class.php on line 22 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005314s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002222s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004580s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007015s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001034s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006045s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000437s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2015-09-09T22:11:30+08:00 ] 120.236.167.145 /Cms/Company/chairman
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_managers` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `hlsf_managers` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005901s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002607s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001811s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002057s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\CompanyController.class.php on line 73 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006269s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 27 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 27 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 27 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 27 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 27 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 27 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 28 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\0a8b44649f32c36b411dda3bb4af8e6e.php 第 30 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003971s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002650s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006413s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008811s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001105s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007074s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007942s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000529s ]
+
+[ 2015-09-09T22:11:31+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:31+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005425s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005492s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001488s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001719s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005846s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003811s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002261s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005830s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008083s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001027s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007262s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000505s ]
+
+[ 2015-09-09T22:11:33+08:00 ] 120.236.167.145 /Cms/News/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:33+08:00 ] 120.236.167.145 /Cms/News/hlzx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000290s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002780s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002108s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000540s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002405s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0020s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016663s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003786s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.013265s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016817s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.019008s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001020s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.017393s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018168s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000458s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000513s ]
+
+[ 2015-09-09T22:11:37+08:00 ] 120.236.167.145 /Cms/Projects/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_project_ssxm` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hlsf_project_ssxm` ORDER BY `order` asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005616s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000283s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002662s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001864s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002223s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\ProjectsController.class.php on line 42 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006273s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003780s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002810s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006351s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008827s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001247s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.008043s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2015-09-09T22:11:38+08:00 ] 120.236.167.145 /Cms/News/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:38+08:00 ] 120.236.167.145 /Cms/News/hlzx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005568s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000304s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002645s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001902s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000552s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002197s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0020s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016545s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003888s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.013066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016707s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.018952s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001023s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.017300s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018063s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000510s ]
+
+[ 2015-09-09T22:11:38+08:00 ] 120.236.167.145 /Cms/Projects/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_project_ssxm` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `hlsf_project_ssxm` ORDER BY `order` asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002930s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002175s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002651s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\ProjectsController.class.php on line 42 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006791s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003754s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003258s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006769s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.009084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001041s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.008265s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-09-09T22:11:41+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:41+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000403s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002819s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001695s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000664s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001970s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006555s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004077s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002674s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006362s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008928s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001064s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.007166s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007840s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000447s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2015-09-09T22:11:42+08:00 ] 120.236.167.145 /Cms/News/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:42+08:00 ] 120.236.167.145 /Cms/News/hlzx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005987s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006051s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000297s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002892s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001931s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002284s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0019s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.026409s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004046s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.022711s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.026527s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.028972s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001057s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.027124s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.027935s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000544s ]
+
+[ 2015-09-09T22:11:48+08:00 ] 120.236.167.145 /Cms/News/hlzx?p=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000276s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002706s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001940s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002257s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0019s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 40,10   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016766s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003913s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.013145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016837s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.019144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001077s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.017423s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018270s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000509s ]
+
+[ 2015-09-09T22:11:50+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:50+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002434s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001525s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001784s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006191s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004087s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002332s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006150s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008506s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001059s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007663s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000444s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000497s ]
+
+[ 2015-09-09T22:11:54+08:00 ] 120.236.167.145 /Cms/Company/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_company` [ RunTime:0.0023s ]
+SQL: SELECT * FROM `hlsf_company` WHERE ( id = 1 )  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005982s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000310s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002871s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001875s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000514s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002121s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\CompanyController.class.php on line 22 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005523s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002253s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002712s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004698s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.007210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001059s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005375s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006166s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2015-09-09T22:11:55+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:11:55+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000071s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002414s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001518s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001752s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005999s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003936s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002309s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005996s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008306s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001040s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007439s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000512s ]
+
+[ 2015-09-09T22:12:07+08:00 ] 120.236.167.145 /Cms/News/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:12:07+08:00 ] 120.236.167.145 /Cms/News/hlzx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000273s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002621s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001931s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000531s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002236s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0019s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.016730s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003908s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.013222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.016913s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.019143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001060s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.017495s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018327s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000504s ]
+
+[ 2015-09-09T22:12:08+08:00 ] 120.236.167.145 /Cms/Projects/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_project_ssxm` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hlsf_project_ssxm` ORDER BY `order` asc  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005469s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002595s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001840s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000533s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002141s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\ProjectsController.class.php on line 42 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006177s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003654s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002725s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006145s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008393s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001005s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006786s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007564s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000436s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2015-09-09T22:12:10+08:00 ] 120.236.167.145 /Cms/News/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:12:10+08:00 ] 120.236.167.145 /Cms/News/hlzx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002669s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001928s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000563s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002253s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0018s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0003s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.026901s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003822s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.023421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.027015s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.029239s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001053s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.027591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.028410s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2015-09-09T22:12:12+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:12:12+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005634s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000273s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000325s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002505s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001598s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001826s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006133s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003980s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006121s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008484s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001063s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007576s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000507s ]
+
+[ 2015-09-09T22:12:12+08:00 ] 120.236.167.145 /Cms/News/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:12:12+08:00 ] 120.236.167.145 /Cms/News/hlzx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8] Undefined index: act C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 29 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005669s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002682s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001941s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000557s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002264s ]
+SQL: SHOW COLUMNS FROM `hlsf_news_hlzx` [ RunTime:0.0019s ]
+SQL: SELECT count(*) as co FROM `hlsf_news_hlzx`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `hlsf_news_hlzx` ORDER BY id desc LIMIT 0,10   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\NewsController.class.php on line 126 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.017143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004056s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.013551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.017385s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.019640s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001043s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.017955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.018769s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000522s ]
+
+[ 2015-09-09T22:12:15+08:00 ] 120.236.167.145 /Cms/News/hlzx?act=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+NOTIC: [8192] Function split() is deprecated C:\www\web1\Application\Cms\Controller\NewsController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005644s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005706s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000272s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002679s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001906s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002249s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001727s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002838s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004350s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006616s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001090s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.004896s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005756s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000513s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000571s ]
+
+[ 2015-09-09T22:12:18+08:00 ] 120.236.167.145 /Cms/Projects/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_project_ssxm` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hlsf_project_ssxm` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005617s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000309s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002756s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001878s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000568s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002183s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\ProjectsController.class.php on line 42 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006380s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\64c8a61e9779603c23241502ca6ca670.php 第 33 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003753s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006293s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008681s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001025s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006959s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007728s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000493s ]
+
+[ 2015-09-09T22:12:19+08:00 ] 120.236.167.145 /Cms/ContactUs/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005858s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000285s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002544s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001323s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001675s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\ContactUsController.class.php on line 20 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004038s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001168s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003190s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005530s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001037s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004538s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000488s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000543s ]
+
+[ 2015-09-09T22:12:20+08:00 ] 120.236.167.145 /Cms/Account/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000131s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000221s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000314s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002428s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001266s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000575s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001575s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\AccountController.class.php on line 18 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000032s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003883s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001161s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002186s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003077s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005368s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001025s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.003675s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004426s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000475s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000527s ]
+
+[ 2015-09-09T22:12:21+08:00 ] 120.236.167.145 /Cms/Team/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+
+[ 2015-09-09T22:12:21+08:00 ] 120.236.167.145 /Cms/Team/member/list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\www\web1\Application\Cms\Controller\BasicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `hlsf_team_member` [ RunTime:0.0019s ]
+SQL: SELECT * FROM `hlsf_team_member` ORDER BY `order` asc  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005549s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000291s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002378s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001515s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.001746s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\TeamController.class.php on line 47 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.005936s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 29 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 30 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 31 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\www\web1\Application\Runtime\Cache\Cms\29cadc07bdb22be8292aa3c8a00065e8.php 第 32 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003927s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.002280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005958s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000036s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001026s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.006610s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007389s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 91 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 92 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\www\web1\ThinkPHP\Library\Think\View.class.php:95) C:\www\web1\ThinkPHP\Library\Think\View.class.php 第 93 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000442s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000496s ]
+
+[ 2015-09-09T22:18:19+08:00 ] 121.42.0.15 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000627s ]
+NOTIC: [2] Missing argument 1 for Think\Controller::show(), called in C:\www\web1\Application\Cms\Controller\LoginController.class.php on line 8 and defined C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 68 行.
+NOTIC: [8] Undefined variable: content C:\www\web1\ThinkPHP\Library\Think\Controller.class.php 第 69 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005244s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000571s ]
+
